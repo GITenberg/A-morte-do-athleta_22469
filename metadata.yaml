@@ -1,0 +1,34 @@
+_repo: A-morte-do-athleta_22469
+_version: 0.1.0
+alternative_title: A morte do atleta
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leal, António Duarte Gomes
+    alias: Leal, Antonio Duarte Gomes
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '24932'
+    url: http://www.gutenberg.org/2009/agents/24932
+    wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Gomes_Leal
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22469'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: Produced by Tiago Tejo
+publication_note: "Porto:\r\nTyp. de A. J. da Silva Teixeira\r\nRua da Cancella Velha,\
+  \ 62\r\n1883"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: A morte do athleta
+url: http://www.gutenberg.org/ebooks/22469
