@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24932
     wikipedia: http://pt.wikipedia.org/wiki/Ant%C3%B3nio_Gomes_Leal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22469#A-morte-do-athleta
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-08-31'
 gutenberg_type: Text
